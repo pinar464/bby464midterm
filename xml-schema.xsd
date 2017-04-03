@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"></xsd:schema>
+
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="1"/>
+            <xsd:element name="isbn" type="9789751037459"/>
+            <xsd:element name="book_name" type="Haşırt Dı Bilekbord"/>
+            <xsd:element name="publish_date" type="2017"/>
+            <xsd:element name="author_name" type="Zafer Algöz"/>
+            <xsd:element name="publisher_name" type="İnkılap Kitabevi"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="2"/>
+            <xsd:element name="isbn" type="9786059913959"/>
+            <xsd:element name="book_name" type="Pi"/>
+            <xsd:element name="publish_date" type="2015"/>
+            <xsd:element name="author_name" type="Akilah Azra Kohen"/>
+            <xsd:element name="publisher_name" type="Destek Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="3"/>
+            <xsd:element name="isbn" type="9789755707849"/>
+            <xsd:element name="book_name" type="Bülbülü Öldürmek"/>
+            <xsd:element name="publish_date" type="2014"/>
+            <xsd:element name="author_name" type="Harper Lee"/>
+            <xsd:element name="publisher_name" type="Sel Yayıncılık"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="4"/>
+            <xsd:element name="isbn" type="9786050916362"/>
+            <xsd:element name="book_name" type="Son Ada"/>
+            <xsd:element name="publish_date" type="2013"/>
+            <xsd:element name="author_name" type="Zülfü Livaneli"/>
+            <xsd:element name="publisher_name" type="Doğan Kitap"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="5"/>
+            <xsd:element name="isbn" type="9789751037596"/>
+            <xsd:element name="book_name" type="Bir Uyuyup Uyanalım"/>
+            <xsd:element name="publish_date" type="2017"/>
+            <xsd:element name="author_name" type="İrfan Değirmenci"/>
+            <xsd:element name="publisher_name" type="İnkılap Kitabevi"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="6"/>
+            <xsd:element name="isbn" type="9786050900286"/>
+            <xsd:element name="book_name" type="Serenad"/>
+            <xsd:element name="publish_date" type="2011"/>
+            <xsd:element name="author_name" type="Zülfü Livaneli"/>
+            <xsd:element name="publisher_name" type="Doğan Kitap"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="7"/>
+            <xsd:element name="isbn" type="9789750719363"/>
+            <xsd:element name="book_name" type="Yüzyıllık Yalnızlık"/>
+            <xsd:element name="publish_date" type="2016"/>
+            <xsd:element name="author_name" type="Gabriel Garcia Marquez"/>
+            <xsd:element name="publisher_name" type="Can Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="8"/>
+            <xsd:element name="isbn" type="9786050905441"/>
+            <xsd:element name="book_name" type="Bir Kedi, Bir Adam, Bir Ölüm"/>
+            <xsd:element name="publish_date" type="2012"/>
+            <xsd:element name="author_name" type="Zülfü Livaneli"/>
+            <xsd:element name="publisher_name" type="Doğan Kitap"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="9"/>
+            <xsd:element name="isbn" type="9789750705243"/>
+            <xsd:element name="book_name" type="Benim Hüzünlü Orospularım"/>
+            <xsd:element name="publish_date" type="2005"/>
+            <xsd:element name="author_name" type="Gabriel Garcia Marquez"/>
+            <xsd:element name="publisher_name" type="Can Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="10"/>
+            <xsd:element name="isbn" type="9789750724435"/>
+            <xsd:element name="book_name" type="Küçük Prens"/>
+            <xsd:element name="publish_date" type="2015"/>
+            <xsd:element name="author_name" type="Antoine de Saint-Exupery"/>
+            <xsd:element name="publisher_name" type="Can Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="11"/>
+            <xsd:element name="isbn" type="9789750718533"/>
+            <xsd:element name="book_name" type="1984"/>
+            <xsd:element name="publish_date" type="2000"/>
+            <xsd:element name="author_name" type="George Orwell"/>
+            <xsd:element name="publisher_name" type="Can Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="12"/>
+            <xsd:element name="isbn" type="9786053111870"/>
+            <xsd:element name="book_name" type="Aeden-Bir Dünya Hikayesi"/>
+            <xsd:element name="publish_date" type="2016"/>
+            <xsd:element name="author_name" type="Akilah Azra Kohen"/>
+            <xsd:element name="publisher_name" type="Destek Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="13"/>
+            <xsd:element name="isbn" type="9789750719400"/>
+            <xsd:element name="book_name" type="Şeker Portakalı"/>
+            <xsd:element name="publish_date" type="2000"/>
+            <xsd:element name="author_name" type="Jose Mauro de Vasconcelos"/>
+            <xsd:element name="publisher_name" type="Can Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="14"/>
+            <xsd:element name="isbn" type="9789755705859"/>
+            <xsd:element name="book_name" type="Fareler ve İnsanlar"/>
+            <xsd:element name="publish_date" type="2012"/>
+            <xsd:element name="author_name" type="John Steinbeck"/>
+            <xsd:element name="publisher_name" type="Sel Yayıncılık"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="15"/>
+            <xsd:element name="isbn" type="9789750719387"/>
+            <xsd:element name="book_name" type="Hayvan Çiftliği"/>
+            <xsd:element name="publish_date" type="2001"/>
+            <xsd:element name="author_name" type="George Orwell"/>
+            <xsd:element name="publisher_name" type="Can Yayınları"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="books">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="book_id" type="16"/>
+            <xsd:element name="isbn" type="9786050914443"/>
+            <xsd:element name="book_name" type="Kardeşimin Hikayesi"/>
+            <xsd:element name="publish_date" type="2013"/>
+            <xsd:element name="author_name" type="Zülfü Livaneli"/>
+            <xsd:element name="publisher_name" type="Doğan Kitap"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
